@@ -1,0 +1,243 @@
+1
+00:00:07,210 --> 00:00:09,852
+Hi, I’m Lori Smallwood,
+an Engineering Manager
+
+2
+00:00:09,873 --> 00:00:13,284
+for 3D content creation workflows
+in the Vision Products Group.
+
+3
+00:00:14,315 --> 00:00:17,950
+In this talk, I’ll go over how we’ve made
+the creation of 3D content easier
+
+4
+00:00:17,975 --> 00:00:21,091
+than ever before
+when using USD and MaterialX.
+
+5
+00:00:21,545 --> 00:00:24,811
+I’ll outline how these technologies
+provide a strong foundation
+
+6
+00:00:24,832 --> 00:00:27,760
+for 3D content creation and interchange.
+
+7
+00:00:28,587 --> 00:00:32,578
+Then, I’ll tell you about some USD
+and MaterialX updates in RealityKit
+
+8
+00:00:32,955 --> 00:00:36,109
+followed by advancements
+in creative tooling on macOS.
+
+9
+00:00:37,099 --> 00:00:41,021
+With USD and MaterialX, Apple has embraced
+the use of industry standard,
+
+10
+00:00:41,042 --> 00:00:44,019
+open source software
+to form a strong foundation for creators
+
+11
+00:00:44,044 --> 00:00:46,052
+like you to develop content.
+
+12
+00:00:46,238 --> 00:00:49,072
+These technologies work together
+to streamline content development
+
+13
+00:00:49,093 --> 00:00:52,220
+across a range of applications
+and industries.
+
+14
+00:00:52,617 --> 00:00:55,203
+OpenUSD, originally developed at Pixar,
+
+15
+00:00:55,224 --> 00:00:58,700
+enables the standardized
+interchange of 3D assets and scenes.
+
+16
+00:00:59,728 --> 00:01:02,652
+MaterialX, which was developed
+at Industrial Light and Magic,
+
+17
+00:01:02,673 --> 00:01:04,513
+is used to portably represent shaders
+
+18
+00:01:04,541 --> 00:01:07,244
+which provide
+the visual look of the 3D content.
+
+19
+00:01:07,913 --> 00:01:09,868
+USD and MaterialX empower you
+
+20
+00:01:09,889 --> 00:01:13,210
+to capture your creativity and bring it
+to life in front of your eyes.
+
+21
+00:01:13,475 --> 00:01:15,493
+From immersive feature
+films, to indie games
+
+22
+00:01:15,514 --> 00:01:17,712
+and beautiful spatial experiences,
+
+23
+00:01:17,733 --> 00:01:21,718
+you can use the same workflows between
+all your projects, and in the applications
+
+24
+00:01:21,739 --> 00:01:23,251
+in which you’re most comfortable.
+
+25
+00:01:23,600 --> 00:01:25,889
+Vision Pro really highlights
+the scalability
+
+26
+00:01:25,910 --> 00:01:27,522
+enabled by consistent workflows
+
+27
+00:01:27,543 --> 00:01:30,913
+through apps like
+Apple TV+, Max and Disney+,
+
+28
+00:01:30,934 --> 00:01:34,447
+which let you be immersed in environments
+created with the same technologies
+
+29
+00:01:34,468 --> 00:01:36,526
+powering the films you watch within them.
+
+30
+00:01:37,116 --> 00:01:40,416
+The images you see on your displays
+are produced by rendering engines.
+
+31
+00:01:40,753 --> 00:01:43,270
+To streamline the creation
+of spatial experiences,
+
+32
+00:01:43,291 --> 00:01:45,974
+we’ve made several advancements
+in two of the rendering engines
+
+33
+00:01:45,995 --> 00:01:48,862
+available on our platforms:
+RealityKit and Storm.
+
+34
+00:01:49,166 --> 00:01:53,126
+Both support USD and MaterialX,
+and cater to different production needs.
+
+35
+00:01:53,697 --> 00:01:55,962
+RealityKit is a powerful realtime engine
+
+36
+00:01:55,983 --> 00:01:58,900
+that can help you create
+amazing spatial experiences.
+
+37
+00:02:00,212 --> 00:02:02,681
+It powers visionOS, and applications like
+
+38
+00:02:02,702 --> 00:02:06,001
+QuickLook on your phone
+and Reality Composer Pro on your Mac.
+
+39
+00:02:06,423 --> 00:02:08,690
+You can use RealityKit
+in your own applications
+
+40
+00:02:08,711 --> 00:02:11,698
+to leverage the unique
+capabilities of our platforms.
+
+41
+00:02:13,219 --> 00:02:17,388
+Storm is Pixar’s real-time renderer
+included with OpenUSD.
+
+42
+00:02:17,570 --> 00:02:21,560
+It is commonly used in content creation
+applications like DaVinci Resolve,
+
+43
+00:02:21,693 --> 00:02:24,224
+and on macOS we make it
+available in Preview
+
+44
+00:02:24,245 --> 00:02:26,636
+to provide a familiar
+and convenient experience
+
+45
+00:02:26,657 --> 00:02:28,956
+for professionals
+targeting those workflows.
+
+46
+00:02:30,344 --> 00:02:34,709
+RealityKit has some great USD
+and MaterialX changes in store this year.
+
+47
+00:02:35,096 --> 00:02:38,990
+Last year we announced Vision Pro
+and visionOS, where we introduced
+
+48
+00:02:39,011 --> 00:02:42,706
+a number of new RealityKit
+features to enable gorgeous content.
+
+49
+00:02:43,026 --> 00:02:46,404
+This includes support
+for MaterialX shaders in ShaderGraph,
+
+50
+00:02:46,425 --> 00:02:49,495
+a shader creation system
+within Reality Composer Pro.
+
+51
+00:02:50,706 --> 00:02:53,482
+Now we’re bringing those same features
+to our other platforms,

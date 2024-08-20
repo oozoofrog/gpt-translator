@@ -66,7 +66,7 @@ def main(video_path, subtitle_path, output_path, openai_key):
         print(f"Subtitle(KO): {subtitle_ko_path}")
         print(f"Output: {output_path}")
 
-        merge_video_subtitle(video_path, subtitle_path, subtitle_ko_path)
+        merge_video_subtitle(video_path, subtitle_path, subtitle_ko_path, output_path)
         
     except Exception as e:
         print(f"Error: {e}")
